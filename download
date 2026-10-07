@@ -1,0 +1,10 @@
+# Keine Vorlesungsunterlagen, Skripte oder privaten Daten veröffentlichen
+*.pdf
+!docs/guide/anleitung.pdf
+*skript*
+*Skript*
+*script*.txt
+WMQD*
+node_modules/
+.DS_Store
+*.log
